@@ -17,5 +17,5 @@ steps:
 
 - script: |
     npm install
-    npm watch:css
+    npm run watch:css
   displayName: 'npm install and build'
